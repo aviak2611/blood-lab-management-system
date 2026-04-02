@@ -1,0 +1,16 @@
+@font-face {
+    font-family: tommysoftlight;
+    src: url('../fonts/tommysoflight.otf');
+}
+@font-face {
+    font-family: tommysoftregular;
+    src: url('../fonts/Tommysoftregular.otf');
+}
+@font-face {
+    font-family: tommysoftbold;
+    src: url('../fonts/tommysoftbold.otf');
+}
+@font-face {
+    font-family: tommysoftextrabold;
+    src: url('../fonts/tommysoftexreabold.otf');
+}
